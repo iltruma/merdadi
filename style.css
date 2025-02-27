@@ -3,11 +3,11 @@ body {
   transition: background-color 0.5s;
 }
 .yes {
-  background: linear-gradient(to right, #4b0000, #8b0000); /* Triste e arrabbiato */
+  background: linear-gradient(to right, #4b0000, #8b0000);
   color: white;
 }
 .no {
-  background: linear-gradient(to right, #ffcc00, #ff6699); /* Felice e vivace */
+  background: linear-gradient(to right, #00b4db, #0083b0);
   color: white;
 }
 .container {
