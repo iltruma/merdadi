@@ -3,17 +3,25 @@ body {
   transition: background-color 0.5s;
 }
 .yes {
-  background-color: green;
+  background: linear-gradient(to right, #4b0000, #8b0000); /* Triste e arrabbiato */
   color: white;
 }
 .no {
-  background-color: red;
+  background: linear-gradient(to right, #ffcc00, #ff6699); /* Felice e vivace */
   color: white;
 }
-
+.container {
+  height: 100vh;
+}
 h1 {
-    color: #000;
-    font-weight:600;
+  font-size: 6rem;
+  font-weight: bold;
+}
+img {
+  margin-top: 20px;
+  width: 256px;
+  height: 256px;
+  object-fit: cover;
 }
 
 .emoji {
