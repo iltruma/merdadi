@@ -10,11 +10,11 @@ if (isTuesday) {
   document.body.classList.add("no");
   document.getElementById("response").textContent = "NO, ED È PURE VENERDÌ"
   document.getElementById("response-emoji").textContent = "🎉"
-  document.getElementById("response-img").src = "https://tenor.com/it/view/friday-lando-norris-f1-mclaren-gif-18574850"
+  document.getElementById("response-img").src = "https://media1.tenor.com/m/k5y7WanF62UAAAAd/friday-lando.gif"
 } else {
   document.body.classList.add("no");
   document.getElementById("response").textContent = "NO"
   document.getElementById("response-emoji").textContent = "🍀"
-  document.getElementById("response-img").src = "https://tenor.com/it/view/dont-cry-everything-i-sfine-everything-is-gonna-be-alright-dog-burning-house-gif-11300965"
+  document.getElementById("response-img").src = "https://media1.tenor.com/m/96aiTxlLf20AAAAd/dont-cry-everything-i-sfine.gif"
 }
 
