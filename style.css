@@ -13,11 +13,11 @@ body {
 .container {
   height: 100vh;
 }
-h1 #title {
+#title {
   font-size: 6rem;
   font-weight: bold;
 }
-h1 #response {
+#response {
   font-size: 4rem;
   font-weight: bold;
 }
