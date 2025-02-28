@@ -2,7 +2,7 @@ const isTuesday = new Date().getDay() === 2;
 const isFriday = new Date().getDay() === 5;
 
 if (isTuesday) {
-  document.body.classList.add("yes");
+  document.body.classList.add("no");
   document.getElementById("response").textContent = "SI"
   document.getElementById("response-emoji").textContent = "🌈"
   document.getElementById("response-img").src = "https://imgur.com/a/RVQqLM2"
