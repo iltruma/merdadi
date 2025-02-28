@@ -17,8 +17,8 @@ body {
   font-size: 6rem;
   font-weight: bold;
 }
-#response {
-  font-size: 4rem;
+#response, #response-emoji {
+  font-size: 3rem;
   font-weight: bold;
 }
 img {
