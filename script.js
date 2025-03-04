@@ -5,7 +5,7 @@ if (isTuesday) {
   document.body.classList.add("no");
   document.getElementById("response").textContent = "SI"
   document.getElementById("response-emoji").textContent = "🌈"
-  document.getElementById("response-img").src = "https://i.imgur.com/FnMhkEX.mp4"
+  document.getElementById("response-img").src = "https://i.imgur.com/FnMhkEX.gif"
 } else if (isFriday) {
   document.body.classList.add("no");
   document.getElementById("response").textContent = "NO, ED È PURE VENERDÌ"
